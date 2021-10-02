@@ -112,6 +112,9 @@ body{
 .nav__avatar{
     width: 30px;
     object-fit: contain;
+    right: 1.5rem;
+    /* margin-right: 2rem; */
+    position: fixed;
 }
 
 .nav{
@@ -119,7 +122,7 @@ body{
     top: 0;
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     padding: 20px;
     z-index: 1;
     transition-timing-function: ease-in;
@@ -127,3 +130,23 @@ body{
     background-color: black;
     opacity: 65%;
 }
+
+.titles{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    /* position: fixed; */
+    font-family: arial;
+    font-size: 1rem;
+    
+}
+
+/* .nav_written{
+    
+} */
