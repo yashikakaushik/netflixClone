@@ -8,4 +8,6 @@ You can have a look at the static responsive website here: https://yashikakaushi
 
 Here is a preview of my project:
 
+<video src="images/preview.mov" width="500rem">
+
 Thankyou so much!
