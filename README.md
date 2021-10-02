@@ -8,8 +8,10 @@ You can have a look at the static responsive website here: https://yashikakaushi
 
 Here is a preview of my project:
 
-<video width="500rem" autoplay>
-  <source src="images/preview.mov" type="video/mov>
-</video>
+
+
+https://user-images.githubusercontent.com/57990459/135727904-b73f8243-6738-4696-b010-8a9fc1e8eee0.mp4
+
+
 
 Thankyou so much!
